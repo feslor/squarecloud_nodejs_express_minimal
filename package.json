@@ -1,0 +1,11 @@
+{
+  "name": "nodejs_express_minimal",
+  "version": "1.0.0",
+  "description": "minimal example to run node with express framework.",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
